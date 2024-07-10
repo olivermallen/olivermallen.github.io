@@ -32,6 +32,11 @@ body {
   font-weight: 500;
 }
 
+.subsubheader-text{
+  font-size: 16px;
+  font-weight: 700;
+}
+
 .project-card-text {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -44,6 +49,6 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
 }
